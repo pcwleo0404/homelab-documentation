@@ -20,6 +20,8 @@ This repository contains:
 - Raspberry Pi Zero 2W
 - ESP32-C6
 - Windows PC
+- MacBook Pro running on WIN11
+- UNIFI AC AP Pro
 - FritzBox Router
 
 ## Services
